@@ -21,7 +21,7 @@ function init(){
 }
 
 function firstQuestion(){
-    var audioDoaMa = new Audio('makeu.mp3');
+    var audioDoaMa = new Audio('duck.mp3');
     var audioNo = new Audio('no.mp3');
     
     $('.content').hide();
